@@ -10,6 +10,8 @@ somewhere beyond an unknown boundary.
 The player communicates with the characters through a mysterious
 interface and gradually discovers what happened to them.
 
+![Connection screen](screenshots/connection-screen.png)
+![Dialogue system](screenshots/dialogue.png)
 ---
 
 ## 🎮 Current Prototype
